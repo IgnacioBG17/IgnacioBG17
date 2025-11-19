@@ -2,8 +2,7 @@
 
 💻 **Desarrollador .NET | Full Stack Developer | Entusiasta de la arquitectura de software**
 
-Soy un apasionado del desarrollo de software con más de 4 años de experiencia construyendo y manteniendo aplicaciones web y de escritorio.  
-Me encanta diseñar soluciones limpias, escalables y enfocadas en buenas prácticas.
+Soy un apasionado del desarrollo de software con más de 4 años de experiencia construyendo y manteniendo aplicaciones.
 
 ---
 
